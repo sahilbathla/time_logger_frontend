@@ -1,6 +1,6 @@
 # Description
 
-Open Weather is a UI prototype of displaying weather using openweathermap.org api based on location.
+Time Logger basically lets you add time logs of what you were doing in a day
 
 # Web Stack
 
@@ -46,7 +46,7 @@ Open Weather is a UI prototype of displaying weather using openweathermap.org ap
 
 4) bower install
 
-5) npm start (open http://localhost:8080)
+5) Make sure you have setup the backend api - https://github.com/sahilbathla/time_logger_backend
 
 6) Change sass files and do `compass compile` to turn them into css
 
